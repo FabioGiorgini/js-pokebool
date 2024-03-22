@@ -15,7 +15,7 @@
   #### MILESTONE 3
   Trasformare la lista delle debolezze da elenco separato da virgole a singole icone tramite lista "wicons"
 
-    ![alt text](screens/preview_collab.JPG)
+![alt text](screens/preview_collab.JPG)
 
   #### MILESTONE 4  
   Aggiungere un indicazione della lunghezza dei pokemon visibili prima della lista
@@ -44,3 +44,4 @@
   <ins> NOTA:</ins> i contatori devono essere aggiornati ogni volta che viene aggiornata la lista dei pokemon visibili
 
   ![alt text](screens/preview.JPG)
+  ![alt text](screens/preview_filter.JPG)
