@@ -4362,12 +4362,12 @@ function createCardContent(pokemon){
 
         //VERSIONE 2
         let weak = pokemon.weaknesses[w];
-        // weak = replaceWeakWIcon(weak);
+        weak = replaceWeakWIcon(weak);
 
         weaknesses.push(weak);
     }
     
-    txt += appendWeaknesses(weaknesses, 'text');
+    txt += appendWeaknesses(weaknesses, 'icons');
 
     return txt;
 }
